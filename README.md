@@ -19,7 +19,7 @@ This project is a digital book designed to help you share wishes and greetings f
 ## How to Use
 1. Clone the repository:
     ```bash
-    git clone https://github.com/codeash007/happy-krishna-janmashtami-book.git
+    https://github.com/codeash007/Krishan-Janmashtami
     ```
 2. Navigate to the project directory:
     ```bash
